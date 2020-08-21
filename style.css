@@ -1,3 +1,5 @@
+body {background-color: #92a8d1;}
+
 .titulo1 {
     font-family: "FreeSans", sans-serif;
 }
@@ -28,4 +30,16 @@ ul {
 
 a {
     font-family: "Manjari", serif;
+}
+
+.fontsize1 {
+    font-size: 26px;
+}
+
+.fontsize2 {
+    font-size: 24px;
+}
+
+.fontsize3 {
+    font-size: 22px;
 }

@@ -1,31 +1,45 @@
-body {background-color: #92a8d1;}
 
 .titulo1 {
     font-family: "FreeSans", sans-serif;
-}
-
-h1 {
-    font-family: "FreeSans", serif;
+    text-align: center
 }
 
 .titulo2 {
     font-family: "Laksaman", serif;
+    padding: 0px;
+    margin: 0px;
 }
 
-h2 {
-    font-family: "Laksaman", serif;
+.blocofoto{
+    vertical-align: text-top;
 }
 
 .lista {
     font-family: "Chilanka", serif;
 }
 
-ul {
-    font-family: "Chilanka", serif;
-}
+table, td, th {
+    border: 1px solid black;
+    margin: 0 auto;
+  }
+
+body {background-color: #92a8d1;
+    }
 
 .link {
     font-family: "Manjari", serif;
+}
+
+h1 {
+    font-family: "FreeSans", serif;
+}
+
+h2 {
+    font-family: "Laksaman", serif;
+}
+
+ul {
+    font-family: "Chilanka", serif;
 }
 
 a {
